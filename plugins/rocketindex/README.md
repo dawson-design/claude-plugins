@@ -18,7 +18,7 @@ Supports 12 languages: C, C++, C#, F#, Go, Java, JavaScript, PHP, Python, Ruby, 
 
 ```bash
 # In Claude Code, run these slash commands:
-/plugin marketplace add rocket-tycoon/rocket-index
+/plugin marketplace add dawson-design/rocket-index
 /plugin install rocketindex
 ```
 
@@ -63,7 +63,7 @@ The hook respects explicitly-specified project roots and won't override them.
 The plugin downloads RocketIndex on first use. If this fails:
 
 1. Check your internet connection
-2. Verify GitHub releases are accessible: https://github.com/rocket-tycoon/rocket-index/releases
+2. Verify GitHub releases are accessible: https://github.com/dawson-design/rocket-index/releases
 3. Manually download and place the `rkt` binary in the plugin's `bin/` directory
 
 ### Index not updating
